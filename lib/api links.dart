@@ -1,0 +1,2 @@
+const Stringsearch = "https://newsapi.org/v2/everything?language=en&apiKey=f2f4dc4c18104f06a26fd04bd8c8b384&pagesize=5&q=apple";//q = search parameter,language code
+const tophealines = "https://newsapi.org/v2/top-headlines?country=in&language=en&apiKey=f2f4dc4c18104f06a26fd04bd8c8b384&pagesize=5#";//change param like country code , page size

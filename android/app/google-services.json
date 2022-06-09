@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "500170387191",
+    "project_id": "dailynewsshorst",
+    "storage_bucket": "dailynewsshorst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500170387191:android:007a733e3a6cb8bcb42df2",
+        "android_client_info": {
+          "package_name": "com.example.dailynewsshorts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500170387191-avcas8qtef1nccmu5ue94ec2q2v14gb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dailynewsshorts",
+            "certificate_hash": "b254d2ad5909b13cc108a3b3352bc22f174030f4"
+          }
+        },
+        {
+          "client_id": "500170387191-2cogpkj14jr8526nh0r1e7bkhmtpf1a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKoZvXXXGfJHzmUCWuPPHAdNJg3-75lVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "500170387191-2cogpkj14jr8526nh0r1e7bkhmtpf1a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
